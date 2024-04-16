@@ -1,3 +1,0 @@
-2 Te diriges por el otro camino visto.
-1 Vuelves el camino ya recorrido.
-5 Decides ir por el río.

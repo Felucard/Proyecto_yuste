@@ -1,3 +1,0 @@
-2 Sigues por el mismo camino en busqueda.
-1 Vuelves el camino ya recorrido.
-3 Decides dejar de seguir el camino e ir a traves de los arboles.
